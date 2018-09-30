@@ -19,4 +19,4 @@
   
 </details>
 
-## This website is for me to document my journey to being a data engineer:
+## This website is for me to document my journey from Data Analyst to Data Engineer
