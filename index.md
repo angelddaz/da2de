@@ -1,4 +1,6 @@
+## Documenting my journey from Data Analyst to Data Engineer
 ## Click Drop-Downs for Content:
+
 
 <details>
 <summary>Data Collection and Ingestion</summary>
@@ -16,7 +18,5 @@
 <summary>Data Processing</summary>
 <br>
   Nothing here yet
-  
 </details>
 
-## This website is for me to document my journey from Data Analyst to Data Engineer
