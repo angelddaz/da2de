@@ -1,4 +1,6 @@
 ## Documenting my journey from Data Analyst to Data Engineer
+[My Tweets on content covered](https://twitter.com/search?l=&q=%23da2de%20from%3Aangeld_az&src=typd)
+
 ## Click Drop-Downs for Content:
 
 
